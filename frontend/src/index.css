@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --color-healthcare-blue: #2c5282;
+  --color-healthcare-lightBlue: #ebf8ff;
+  --color-healthcare-green: #38a169;
+  --color-healthcare-lightGreen: #f0fff4;
+  --color-healthcare-teal: #319795;
+  --color-healthcare-background: #f7fafc;
+  --color-healthcare-text: #2d3748;
+
+  --font-sans: "Inter", sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-healthcare-background text-healthcare-text font-sans antialiased;
+  }
+}

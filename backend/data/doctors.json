@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Oliva Skin & Hair Clinic",
+    "clinic": "Oliva Clinic – Anna Nagar",
+    "speciality": "Dermatologist & Hair Specialist",
+    "address": "No. 221, TBR Tower Avenue, Above Starbucks, Y Block 2nd St, Anna Nagar, Chennai – 600040",
+    "city": "chennai",
+    "rating": 4.7,
+    "reviews": 680,
+    "phone": "+91 82978 82978",
+    "maps_url": "https://maps.google.com/?q=Oliva+Skin+Hair+Clinic+Anna+Nagar+Chennai",
+    "website": "https://www.olivaclinic.com",
+    "available": "Mon–Sat, 9AM–7PM"
+  },
+  {
+    "name": "Oliva Skin, Hair & Body Clinic",
+    "clinic": "Oliva Clinic – Alwarpet / Mylapore",
+    "speciality": "Dermatologist & Trichologist",
+    "address": "2nd Floor, Flat No. 2A & 2B, KG Business Centre, 65, TT Krishnamachari Rd, CIT Colony, Mylapore, Chennai – 600018",
+    "city": "chennai",
+    "rating": 4.7,
+    "reviews": 510,
+    "phone": "+91 82978 82978",
+    "maps_url": "https://maps.google.com/?q=Oliva+Clinic+Alwarpet+Mylapore+Chennai",
+    "website": "https://www.olivaclinic.com",
+    "available": "Mon–Sat, 9AM–7PM"
+  },
+  {
+    "name": "ZI Clinic – Anna Nagar",
+    "clinic": "ZI Clinic (Dr. Sruthy Raghupathy & Dr. Roopa R)",
+    "speciality": "Dermatologist & Cosmetologist",
+    "address": "#7, 1st Floor, A Block, 2nd Avenue, Anna Nagar East (Opp. Metro), Chennai – 600102",
+    "city": "chennai",
+    "rating": 4.8,
+    "reviews": 320,
+    "phone": "+91 93396 12345",
+    "maps_url": "https://maps.google.com/?q=ZI+Clinic+Anna+Nagar+Chennai",
+    "website": "https://www.ziclinic.com",
+    "available": "Mon–Sat, 10AM–7PM"
+  },
+  {
+    "name": "ZI Clinic – Poes Garden",
+    "clinic": "ZI Clinic (Dr. Jangid – 19 yrs experience)",
+    "speciality": "Dermatologist & Hair Specialist",
+    "address": "AURIGA by Sanghis, 2nd Floor, 9/17 Kasturi Rangan Road, Poes Garden, Alwarpet, Chennai – 600018",
+    "city": "chennai",
+    "rating": 4.8,
+    "reviews": 275,
+    "phone": "+91 93397 12345",
+    "maps_url": "https://maps.google.com/?q=ZI+Clinic+Poes+Garden+Chennai",
+    "website": "https://www.ziclinic.com",
+    "available": "Mon–Sat, 10AM–7PM"
+  },
+  {
+    "name": "MAX Hair Clinic",
+    "clinic": "MAX Hair Clinic – Nungambakkam",
+    "speciality": "Hair Transplant & FUE Specialist",
+    "address": "10/21, Nageswara Road, Behind Taj Coromandel Hotel, Tirumurthy Nagar, Nungambakkam, Chennai – 600034",
+    "city": "chennai",
+    "rating": 4.6,
+    "reviews": 730,
+    "phone": "+91 88832 88822",
+    "maps_url": "https://maps.google.com/?q=MAX+Hair+Clinic+Nungambakkam+Chennai",
+    "website": "",
+    "available": "Mon–Sat, 9AM–6PM"
+  },
+  {
+    "name": "Dr. Hanan Basith",
+    "clinic": "Dr. Hanan Dermatology Speciality Clinic – Padur OMR",
+    "speciality": "Dermatologist & Hair Loss Specialist (14 yrs exp)",
+    "address": "A Block, Gem Bhoomi & Buildings, Padur, OMR, Chennai – 603103",
+    "city": "chennai",
+    "rating": 4.9,
+    "reviews": 190,
+    "phone": "+91 86677 03638",
+    "maps_url": "https://maps.google.com/?q=Dr+Hanan+Dermatology+Clinic+Padur+OMR+Chennai",
+    "website": "https://www.drhanandermatologyclinic.com",
+    "available": "Mon–Sat, 10AM–6PM"
+  },
+  {
+    "name": "Oliva Skin & Hair Clinic",
+    "clinic": "Oliva Clinic – Adyar",
+    "speciality": "Dermatologist & Trichologist",
+    "address": "Ground Floor, New No. 53, Old No. 26, Sai Bhavanam, 2nd Cross St, Gandhi Nagar, Adyar, Chennai – 600020",
+    "city": "chennai",
+    "rating": 4.7,
+    "reviews": 420,
+    "phone": "+91 82978 82978",
+    "maps_url": "https://maps.google.com/?q=Oliva+Clinic+Adyar+Chennai",
+    "website": "https://www.olivaclinic.com",
+    "available": "Mon–Sat, 9AM–7PM"
+  }
+]

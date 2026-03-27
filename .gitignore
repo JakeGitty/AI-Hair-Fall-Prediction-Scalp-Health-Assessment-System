@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Environment Variables (NEVER commit these!)
+.env
+*.env
+
+# Database files
+*.db
+*.sqlite3
+
+# Large dataset archives
+*.zip
+*.tar.gz
+*.rar
+
+# Model files (large binary files)
+backend/ml/*.joblib
+backend/ml/*.pkl
+backend/ml/*.h5
+backend/ml/*.pt
+backend/ml/*.pth
+
+# Uploaded images
+backend/uploads/
+
+# Node.js
+node_modules/
+frontend/node_modules/
+
+# Build output
+frontend/dist/
+frontend/build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Dummy/test files
+dummy.jpg
+valid_dummy.jpg
